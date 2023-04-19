@@ -5,12 +5,12 @@
 My name is Moksh and I am a web development enthusiast currently pursuing BCA. I am proficient in HTML, CSS, JavaScript, and C language. I am passionate about open source and looking forward to contributing to the community.
 
 ## My Skill Set  
-### Frontend 
+
 
 <table>
-<tr valign="top" width="33%">
- 
-</tr>
+<th valign="top" width="33%">
+### Frontend 
+</th>
 <tr>
 <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></td>  
 </tr> 
