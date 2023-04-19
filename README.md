@@ -6,7 +6,7 @@ My name is Moksh and I am a web development enthusiast currently pursuing BCA. I
 
 ## My Skill Set  
 <p>
-## Frontend 
+### Frontend 
  </p>
 <table>
 <tr valign="top" width="33%">
