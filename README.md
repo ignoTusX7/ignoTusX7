@@ -8,17 +8,17 @@ My name is Moksh and I am a web development enthusiast currently pursuing BCA. I
 
 
 <table>
-<th">
+<th>
 ## Frontend
 </th>
 <tr>
 <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></td>  
 </tr> 
 <tr>
-<td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></td>  </tr>
+<td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></td> </tr>
 <tr><td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /</td>></tr>
 <tr><td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></td></tr>
-/table>  
+</table>  
 
 
 ## 🚀 About Me
