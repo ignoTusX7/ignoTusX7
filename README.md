@@ -7,7 +7,7 @@ My name is Moksh and I am a web development enthusiast currently pursuing BCA. I
 ## My Skill Set  
 <table>
 <tr valign="top" width="33%">
-<th>## Frontend </th>
+<th># Frontend </th>
 </tr>
 <tr>
 <td><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></td>  
