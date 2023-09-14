@@ -1,7 +1,7 @@
 # Hi, I'm Moksh! 👋
 
 # 💫 About Me:
-🌱 I’m currently learning Advanced Next JS
+🌱 I’m currently learning Next JS
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realignotus)
