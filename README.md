@@ -1,7 +1,13 @@
 # Hi, I'm Moksh! 👋
 
 # 💫 About Me:
-🌱 I’m currently learning Next JS
+🌱 Hello there! I'm Moksh, a passionate student pursuing a Bachelor's degree in Computer Applications (BCA). I have a strong affinity for web development, artificial intelligence, and a deep commitment to contributing to the open-source community.
+
+My journey in the world of technology began with a fascination for the limitless possibilities the digital realm offers. As I delved into the world of web development, I discovered the power of creating elegant and user-friendly websites. My skills in HTML, CSS, JavaScript, and various web frameworks enable me to craft responsive and engaging web applications.
+
+One of my core beliefs is the importance of giving back to the tech community. I actively contribute to open-source projects to share my knowledge, collaborate with other talented developers, and make technology more accessible to everyone. You can find my contributions and repositories on GitHub, where I'm constantly learning, growing, and sharing my insights.
+
+When I'm not immersed in the digital realm, you can find me exploring the intersection of technology and creativity, enjoying a good book, or savoring a cup of coffee. I'm always open to new opportunities and collaborations, so feel free to reach out to me if you share my passion for web development, AI, or open source.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/realignotus)
